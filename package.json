@@ -1,7 +1,7 @@
 {
-  "name": "usefetch-hook",
+  "name": "usefetch-caching",
   "description": "⚛️ React Hook for Fetching Data & caching it in Localstorage",
-  "version": "0.1",
+  "version": "0.0.3",
   "keywords": [
     "react",
     "hooks",
