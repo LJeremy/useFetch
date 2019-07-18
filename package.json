@@ -1,0 +1,17 @@
+{
+  "name": "usefetch-hook",
+  "description": "⚛️ React Hook for Fetching Data & caching it in Localstorage",
+  "version": "0.1",
+  "keywords": [
+    "react",
+    "hooks",
+    "fetch"
+  ],
+  "maintainers": [
+    {
+      "name": "Lars",
+      "email": "lars@keytoe.nl",
+      "web": "https://lars.coffee"
+    }
+  ]
+}
