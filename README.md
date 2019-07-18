@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-npm install usefetch-hook
+npm install usefetch-caching
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Firstly, Import the package:
 
 ```sh
 
-import { useFetch } from 'usefetch-hook';
+import { useFetch } from 'usefetch-caching';
 
 ```
 
