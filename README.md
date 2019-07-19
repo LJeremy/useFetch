@@ -1,6 +1,6 @@
 <h1  align="center">⚛️ useFetch 👋</h1>
 <p>
-<img  alt="Version"  src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000"  />
+<img  alt="Version"  src="https://img.shields.io/badge/version-0.0.4-blue.svg?cacheSeconds=2592000"  />
 </p>
 
 > ⚛️ React Hook for Fetching Data & caching it in Localstorage
