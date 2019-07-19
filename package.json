@@ -1,12 +1,24 @@
 {
   "name": "usefetch-caching",
   "description": "⚛️ React Hook for Fetching Data & caching it in Localstorage",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "main": "useFetch.js",
   "keywords": [
     "react",
     "hooks",
-    "fetch"
+    "fetch",
+    "useFetch"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LJeremy/useFetch.git"
+  },
+  "author": "LJeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LJeremy/useFetch/issues"
+  },
+  "homepage": "https://github.com/LJeremy/useFetch#readme",
   "maintainers": [
     {
       "name": "Lars",
